@@ -1,4 +1,4 @@
-module OpenMCP-Chain
+module github.com/celanwang/mcpchainx
 
 go 1.24.0
 
